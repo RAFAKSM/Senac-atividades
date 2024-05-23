@@ -1,0 +1,38 @@
+p{
+    color:white;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif
+}
+
+h1{
+    background-color: black;
+    color: aliceblue;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h2{
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 1200px;
+}
+footer{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(230, 230, 230);
+    background-color: rgb(5, 122, 64);
+    padding-left: 300px;
+    margin-top: 550px
+}
+body{
+    background-image: url('./img/rain-water-green-leaf-macro.jpg');
+}
+
+ul{
+    float: right;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+      
+}
